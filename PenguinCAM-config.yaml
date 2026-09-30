@@ -14,7 +14,7 @@
 version: 2
 
 # Which machine to use by default (if not specified in UI)
-default_machine: omio_x8
+default_machine: ShopSabre
 
 # =============================================================================
 # TEAM INFORMATION (applies to all machines)
