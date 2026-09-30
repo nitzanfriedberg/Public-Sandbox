@@ -47,7 +47,7 @@ machines:
       # Machine work envelope (inches)
       dimensions:
         x_max: 24
-        y_max: 18
+        y_max: 24
         z_max: 4
 
       # Park position (machine coordinates for safe part access)
